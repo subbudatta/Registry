@@ -1,0 +1,14 @@
+C:\Users\subra\Desktop\Package_Registry\package_registry\LoginApplication\Test\obj\Debug\LoginApplicationTest.csprojAssemblyReference.cache
+C:\Users\subra\Desktop\Package_Registry\package_registry\LoginApplication\Test\obj\Debug\LoginApplicationTest.csproj.CoreCompileInputs.cache
+C:\Users\subra\Desktop\Package_Registry\package_registry\LoginApplication\Test\bin\Debug\Test.dll
+C:\Users\subra\Desktop\Package_Registry\package_registry\LoginApplication\Test\bin\Debug\Test.pdb
+C:\Users\subra\Desktop\Package_Registry\package_registry\LoginApplication\Test\bin\Debug\nunit.framework.dll
+C:\Users\subra\Desktop\Package_Registry\package_registry\LoginApplication\Test\bin\Debug\nunit.framework.pdb
+C:\Users\subra\Desktop\Package_Registry\package_registry\LoginApplication\Test\bin\Debug\WebDriver.Support.dll
+C:\Users\subra\Desktop\Package_Registry\package_registry\LoginApplication\Test\bin\Debug\WebDriver.dll
+C:\Users\subra\Desktop\Package_Registry\package_registry\LoginApplication\Test\bin\Debug\LoginApplication.dll
+C:\Users\subra\Desktop\Package_Registry\package_registry\LoginApplication\Test\bin\Debug\LoginApplication.pdb
+C:\Users\subra\Desktop\Package_Registry\package_registry\LoginApplication\Test\bin\Debug\LoginApplication.dll.config
+C:\Users\subra\Desktop\Package_Registry\package_registry\LoginApplication\Test\obj\Debug\LoginApplicationTest.csproj.CopyComplete
+C:\Users\subra\Desktop\Package_Registry\package_registry\LoginApplication\Test\obj\Debug\Test.dll
+C:\Users\subra\Desktop\Package_Registry\package_registry\LoginApplication\Test\obj\Debug\Test.pdb

@@ -1,0 +1,98 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\subra\\Desktop\\Package_Registry\\package_registry\\LoginApplication\\Test\\LoginApplicationTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\subra\\Desktop\\Package_Registry\\package_registry\\LoginApplication\\LoginApplication\\LoginApplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\subra\\Desktop\\Package_Registry\\package_registry\\LoginApplication\\LoginApplication\\LoginApplication.csproj",
+        "projectName": "LoginApplication",
+        "projectPath": "C:\\Users\\subra\\Desktop\\Package_Registry\\package_registry\\LoginApplication\\LoginApplication\\LoginApplication.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\subra\\Desktop\\Package_Registry\\package_registry\\LoginApplication\\Test\\LoginApplicationTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\subra\\Desktop\\Package_Registry\\package_registry\\LoginApplication\\Test\\LoginApplicationTest.csproj",
+        "projectName": "LoginApplicationTest",
+        "projectPath": "C:\\Users\\subra\\Desktop\\Package_Registry\\package_registry\\LoginApplication\\Test\\LoginApplicationTest.csproj",
+        "packagesPath": "C:\\Users\\subra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\subra\\Desktop\\Package_Registry\\package_registry\\LoginApplication\\Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\subra\\Desktop\\Package_Registry\\package_registry\\LoginApplication\\NuGet.Config",
+          "C:\\Users\\subra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://nuget.pkg.github.com/subbudatta/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\subra\\Desktop\\Package_Registry\\package_registry\\LoginApplication\\LoginApplication\\LoginApplication.csproj": {
+                "projectPath": "C:\\Users\\subra\\Desktop\\Package_Registry\\package_registry\\LoginApplication\\LoginApplication\\LoginApplication.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit.Console": {
+              "target": "Package",
+              "version": "[3.11.1, )"
+            },
+            "NUnit.ConsoleRunner": {
+              "target": "Package",
+              "version": "[3.11.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.16.1, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[81.0.4044.13800, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

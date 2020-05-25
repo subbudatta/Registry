@@ -1,0 +1,10 @@
+C:\Users\subra\Desktop\Package_Registry\package_registry\LoginApplication\LoginApplication\obj\Debug\LoginApplication.csprojAssemblyReference.cache
+C:\Users\subra\Desktop\Package_Registry\package_registry\LoginApplication\LoginApplication\obj\Debug\LoginApplication.csproj.CoreCompileInputs.cache
+C:\Users\subra\Desktop\Package_Registry\package_registry\LoginApplication\LoginApplication\bin\LoginApplication.dll.config
+C:\Users\subra\Desktop\Package_Registry\package_registry\LoginApplication\LoginApplication\bin\LoginApplication.dll
+C:\Users\subra\Desktop\Package_Registry\package_registry\LoginApplication\LoginApplication\bin\LoginApplication.pdb
+C:\Users\subra\Desktop\Package_Registry\package_registry\LoginApplication\LoginApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\subra\Desktop\Package_Registry\package_registry\LoginApplication\LoginApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\subra\Desktop\Package_Registry\package_registry\LoginApplication\LoginApplication\obj\Debug\LoginApplication.csproj.CopyComplete
+C:\Users\subra\Desktop\Package_Registry\package_registry\LoginApplication\LoginApplication\obj\Debug\LoginApplication.dll
+C:\Users\subra\Desktop\Package_Registry\package_registry\LoginApplication\LoginApplication\obj\Debug\LoginApplication.pdb
